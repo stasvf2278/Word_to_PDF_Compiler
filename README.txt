@@ -13,9 +13,9 @@ Note: Written in Pyton 2.7 and tested in Pyton 3.7
 
 Note: This script was written for Windows.
 
-Note: Change the target folder directly in Ln 7.
+Note: Change the target folder directly in Ln 9.
 
-Note: Change the output PDF directly in Ln 47.
+Note: Change the output PDF directly in Ln 51.
 
 Installation:
 
