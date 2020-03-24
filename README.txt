@@ -23,13 +23,13 @@ This script is written in the main() feature.
 
 Credits:
 
-I, Stanley Mordesky, wrote this for my doctoral dissertation, which was composed of 16+ Word documents.
+I, stasvf2278, wrote this for my doctoral dissertation, which was composed of 16+ Word documents.
 
 License:
 
 MIT License
 
-Copyright (c) 2020 Stanley Mordensky
+Copyright (c) 2020 stasvf2278
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
