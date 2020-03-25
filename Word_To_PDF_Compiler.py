@@ -52,4 +52,5 @@ def main():
     pdfWriter.write(pdfOutput)
     pdfOutput.close()
 
-main()
+if name == "main":
+    main()
